@@ -1,0 +1,8 @@
+
+{
+  "name": "Gemini Live Voice Hub",
+  "description": "A high-fidelity conversational voice interface featuring real-time translation, subtitles, and multiple AI personas powered by Gemini 2.5 Flash Native Audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
